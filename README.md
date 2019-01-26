@@ -24,7 +24,9 @@ https://hebs87.github.io/my-first-website/
 ## Built With
 
 [Cloud 9](https://c9.io/login) - Dependancy Management
+
 HTML (Hypertext Markup Language) - Core technology
+
 CSS (Cascading Style Sheets) - Core technology
 
 ## Authors
